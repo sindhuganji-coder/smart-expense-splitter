@@ -1,0 +1,3 @@
+# Project Overview
+
+Smart Expense Splitter is a web-based application designed to help users easily manage and split expenses among friends, family, or any group of people. The application allows users to input expenses, assign them to participants, and provides a clear breakdown of what each person owes or is owed. It aims to simplify financial management in shared activities such as trips, dinners, or events.
