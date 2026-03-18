@@ -1,0 +1,1 @@
+# Byte-compiled / optimized / DLL files\n__pycache__/\n*.py[cod]\n*.pyo\n*.pyd\n\n# C extension\n*.so\n\n# Distribution / packaging\n.Python\nenv/\nvenv/\nbuilt_distribution/\ndist/\n*.egg-info/\n*.egg\n\n# Flask instance folder\ninstance/\n\n# IDEs and editors\n.vscode/\n.idea/\n*.swp\n*.swo\n*.bak\n\n# macOS system files\n.DS_Store\n
